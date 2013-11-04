@@ -1,0 +1,10 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+http://mucsa.org
+
+This is the website of the Melbourne University Computing Association.
+
+Email: webmaster@mucsa.org
+Twitter: @MUCSA
+Facebook: https://www.facebook.com/groups/2502549281/

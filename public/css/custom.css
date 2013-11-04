@@ -1,0 +1,59 @@
+/* ==|== primary styles =====================================================
+   Author: Aidan Nagorcka-Smith (aidanns@gmail.com)
+   ========================================================================== */
+
+footer > p {
+  font-size:12px;
+  line-height:22px;
+  color: #999;
+  text-align: center;
+}
+
+footer > p > a:link {
+  color: #999;
+}
+
+footer > p > a:visited {
+  color: #999;
+}
+
+footer > p > a:hover {
+  color: #555;
+}
+
+footer > p > a:hover {
+  color: #555;
+}
+
+.center-text {
+  text-align: center;
+}
+
+h2 {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+h3 {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+@media (min-width: 980px) {
+  body {
+    padding-top: 40px;
+  }
+}
+
+/* Logo should be scaled down to fit. */
+.logo {
+  display: block;
+  width:100%;
+}
+
+
+/* Table for committee */
+
+.committee td {
+  vertical-align: middle;
+}
